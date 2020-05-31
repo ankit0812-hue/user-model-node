@@ -1,0 +1,20 @@
+{
+  "name": "user-model-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit0812-hue/user-model-node.git"
+  },
+  "author": "Ankit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit0812-hue/user-model-node/issues"
+  },
+  "homepage": "https://github.com/ankit0812-hue/user-model-node#readme"
+}

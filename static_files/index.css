@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 10em;
+}
+button {
+    width: 40%;
+    margin-top: 2em;
+}
