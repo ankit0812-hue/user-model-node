@@ -7,6 +7,30 @@
     margin-top: 10em;
 }
 button {
-    width: 40%;
+    width: 200px;
     margin-top: 2em;
+}
+.form-control {
+    border: none;
+    border-bottom: 1px solid grey;
+    border-radius: 0px;
+}
+.social-register {
+    border-left: 1px solid grey;
+}
+.social-register button {
+    width: 200px;
+    justify-content: center;
+}
+
+#upload {
+    border: 1px solid black;
+    background-color: grey;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .social-register {
+        border: none;
+    }
 }
